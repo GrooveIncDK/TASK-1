@@ -53,8 +53,9 @@ footer{
 /* Extra small  devices(phones)*/
   @media (max-width: 600px) {
     .prof-pic-div {
+        border-left: 0px #007bff  solid;
         position: absolute;
-        top: 70px;
+        top: 20px;
         right: 20px;
          scroll-margin-top: 100px;
         width: 90px;
